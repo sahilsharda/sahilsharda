@@ -22,7 +22,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yash-sharma-6960ab326/](https://www.linkedin.com/in/sahil-manjhi-099663278/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sahil-manjhi-099663278/))
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil2004aristo@gmail.com)
 
 ---
