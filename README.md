@@ -3,7 +3,7 @@
 
 - Currently working on **React app**
 - I’m learning **React, Python, and Generative AI**
-- All of my projects are available at [github.com/sahilmanjhi](https://github.com/sahilsharda)
+- All of my projects are available at [github.com/sahilsharda](https://github.com/sahilsharda)
 - Ask me about **Web Dev, Python, or College Projects**
 - How to reach me: **sahil2004aristo@gmail.com**
 - Fun fact: *I dislike C++ and love UI design*
