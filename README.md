@@ -47,7 +47,7 @@
 
 <h2 align="center">Tech Stack 📼</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,js,nodejs,html,css,ts,tailwind,mongodb,mysql,express,figma,prisma,linux,git,vscode&perline=8&theme=dark" alt="Tech Stack" />
+  <img src="assets/TECH%20STACK.gif" alt="Tech Stack Animation" width="100%" />
 </div>
 <br>
 
