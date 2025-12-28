@@ -49,7 +49,7 @@
   <img src="assets/tech_header.svg" alt="Tech Stack" width="400" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,js,nodejs,html,css,ts,tailwind,mongodb,mysql,express,figma,prisma,linux,git,vscode&perline=8&theme=dark" alt="Tech Stack" />
+  <img src="assets/tech_anim.svg" alt="Animated Tech Stack" width="100%" />
 </div>
 <br>
 

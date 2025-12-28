@@ -1,0 +1,73 @@
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .icon { transform-box: fill-box; transform-origin: center; }
+      
+      /* React Spin */
+      .react-spin { animation: spin 10s linear infinite; }
+      @keyframes spin { 100% { transform: rotate(360deg); } }
+
+      /* Python Bounce */
+      .python-bounce { animation: bounce 2s ease-in-out infinite; }
+      @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+
+      /* JS Wiggle */
+      .js-wiggle { animation: wiggle 2s ease-in-out infinite; }
+      @keyframes wiggle { 0%, 100% { transform: rotate(-5deg); } 50% { transform: rotate(5deg); } }
+
+      /* HTML/CSS Float */
+      .float { animation: float 3s ease-in-out infinite; }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+      
+      /* Node Pulse */
+      .node-pulse { animation: pulse 3s infinite; }
+      @keyframes pulse { 0% { opacity: 0.8; transform: scale(1); } 50% { opacity: 1; transform: scale(1.05); } 100% { opacity: 0.8; transform: scale(1); } }
+    </style>
+  </defs>
+
+  <!-- React -->
+  <g transform="translate(50, 25)">
+    <circle cx="50" cy="50" r="10" fill="#61DAFB" />
+    <g class="icon react-spin">
+      <ellipse cx="50" cy="50" rx="45" ry="18" stroke="#61DAFB" stroke-width="4" fill="none" transform="rotate(0 50 50)" />
+      <ellipse cx="50" cy="50" rx="45" ry="18" stroke="#61DAFB" stroke-width="4" fill="none" transform="rotate(60 50 50)" />
+      <ellipse cx="50" cy="50" rx="45" ry="18" stroke="#61DAFB" stroke-width="4" fill="none" transform="rotate(120 50 50)" />
+    </g>
+    <text x="50" y="120" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle">React</text>
+  </g>
+
+  <!-- Python -->
+  <g transform="translate(180, 25)" class="icon python-bounce">
+    <path d="M50 0 C25 0 25 25 50 25 L75 25 L75 50 L25 50 L25 75 L0 75 L0 25 C0 0 25 0 50 0 Z" fill="#3776AB" />
+    <path d="M50 100 C75 100 75 75 50 75 L25 75 L25 50 L75 50 L75 25 L100 25 L100 75 C100 100 75 100 50 100 Z" fill="#FFD43B" />
+    <text x="50" y="120" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle">Python</text>
+  </g>
+
+  <!-- JavaScript -->
+  <g transform="translate(310, 25)" class="icon js-wiggle">
+    <rect x="10" y="10" width="80" height="80" rx="5" fill="#F7DF1E" />
+    <path d="M55 70 L55 50 L65 50 M30 70 L30 50 C30 50 30 60 40 60" stroke="#000" stroke-width="5" fill="none" />
+    <text x="50" y="120" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle">JavaScript</text>
+  </g>
+
+  <!-- HTML5 -->
+  <g transform="translate(440, 25)" class="icon float">
+    <path d="M15 0 L85 0 L78 85 L50 100 L22 85 Z" fill="#E34F26" />
+    <path d="M50 92 L72 80 L78 15 L50 15 Z" fill="#EF652A" />
+    <text x="50" y="120" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle">HTML5</text>
+  </g>
+
+  <!-- CSS3 -->
+  <g transform="translate(570, 25)" class="icon float" style="animation-delay: 1s">
+    <path d="M15 0 L85 0 L78 85 L50 100 L22 85 Z" fill="#1572B6" />
+    <path d="M50 92 L72 80 L78 15 L50 15 Z" fill="#33A9DC" />
+    <text x="50" y="120" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle">CSS3</text>
+  </g>
+  
+  <!-- Node -->
+  <g transform="translate(700, 25)" class="icon node-pulse">
+    <path d="M50 0 L93 25 L93 75 L50 100 L7 75 L7 25 Z" fill="#339933" />
+    <text x="50" y="120" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle">Node.js</text>
+  </g>
+
+</svg>
