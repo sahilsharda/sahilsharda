@@ -1,0 +1,46 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Benguiat+ITC:wght@700&amp;display=swap');
+      
+      .text {
+        font-family: 'Times New Roman', serif;
+        font-size: 80px;
+        font-weight: bold;
+        text-anchor: middle;
+        fill: none;
+        stroke: #e71d36;
+        stroke-width: 2px;
+        filter: drop-shadow(0 0 3px #e71d36) drop-shadow(0 0 8px #ff0000);
+        animation: flicker 5s infinite alternate;
+      }
+
+      .glow {
+        font-family: 'Times New Roman', serif;
+        font-size: 80px;
+        font-weight: bold;
+        text-anchor: middle;
+        fill: #e71d36;
+        opacity: 0.1;
+        filter: blur(4px);
+        animation: pulse 5s infinite alternate;
+      }
+
+      @keyframes flicker {
+        0%, 18%, 22%, 25%, 53%, 57%, 100% {
+          stroke-opacity: 1;
+        }
+        20%, 24%, 55% {
+          stroke-opacity: 0.5;
+        }
+      }
+
+      @keyframes pulse {
+        0% { opacity: 0.2; }
+        100% { opacity: 0.5; }
+      }
+    </style>
+  </defs>
+  <text x="50%" y="65%" class="glow">Socials</text>
+  <text x="50%" y="65%" class="text">Socials</text>
+</svg>
