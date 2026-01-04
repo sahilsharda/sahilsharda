@@ -1,4 +1,4 @@
-<!--<h2 align="left">Sahil Manjhi</h2> -->
+
 
 <div align="center">
   <img src="assets/stranger_things.gif" alt="Stranger Things" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px #e71d36;" />
@@ -8,16 +8,17 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=800&color=E71D36&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+Full+Stack+Developer+%F0%9F%94%A5;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%E2%9A%A1+Stranger+Things+Enthusiast+%E2%9A%A1;%F0%9F%9A%80+Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E71D36&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning;Stranger+Things+Enthusiast;Building+the+Future" alt="Typing SVG" />
   </a>
+  
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/sahilsharda" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sahil-manjhi-099663278/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/sahilsharda" target="blank"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github" /></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/sahilsharda/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="45" alt="leetcode" /></a>
+  <a href="https://leetcode.com/u/Y9icWJ7u0J/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="45" alt="leetcode" /></a>
   &nbsp;&nbsp;
   <a href="mailto:sahil2004aristo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail" /></a>
 </div>
