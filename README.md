@@ -32,7 +32,7 @@
           <h3>Connect with me 🤝</h3>
           <a href="https://linkedin.com/in/sahilsharda" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" /></a>
           <a href="https://github.com/sahilsharda" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github" /></a>
-          <a href="https://leetcode.com/u/sahilsharda/" target="blank"><img src="assets/icons/leetcode.svg" height="40" alt="leetcode" /></a>
+          <a href="https://leetcode.com/u/sahilsharda/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40" alt="leetcode" /></a>
           <a href="mailto:sahil2004aristo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" /></a>
         </div>
       </td>
@@ -132,14 +132,14 @@
   <img src="assets/stats_header.svg" alt="Stranger Stats" width="500" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilsharda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilsharda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilsharda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilsharda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=sahilsharda&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsharda&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsharda&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsharda&theme=react-dark&area=true&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
 ---
