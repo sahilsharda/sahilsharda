@@ -1,6 +1,8 @@
 <!--<h2 align="left">Sahil Manjhi</h2> -->
 
-![Profile Banner](assets/header.svg)
+<div align="center">
+  <img src="assets/stranger_things.gif" alt="Stranger Things" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px #e71d36;" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
