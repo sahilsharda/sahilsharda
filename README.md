@@ -135,7 +135,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahilsharda&show_icons=true&theme=radical&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sahilsharda&layout=compact&theme=radical&hide_border=false" height="150" alt="languages graph" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsharda&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=sahilsharda&theme=radical&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
