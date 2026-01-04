@@ -16,37 +16,6 @@
 
 ---
 
-<div align="center"> 
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h2 align="center">About Me 🕹️</h2>
-        <br>
-        <p>
-          Hi, I'm <b>Sahil Manjhi</b>, a passionate developer navigating the Upside Down of code. I specialize in building robust web applications and exploring the depths of Artificial Intelligence.
-        </p>
-        <p>
-          🔭 I’m currently working on <b>React & Python Projects</b><br>
-          🌱 I’m currently learning <b>Generative AI & System Design</b><br>
-          ⚡ Fun fact: <i>"Friends don't lie, and neither does my code (mostly)."</i>
-        </p>
-        <div align="center">
-          <h3>Connect with me 🤝</h3>
-          <a href="https://linkedin.com/in/sahilsharda" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" /></a>
-          <a href="https://github.com/sahilsharda" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github" /></a>
-          <a href="https://leetcode.com/u/sahilsharda/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40" alt="leetcode" /></a>
-          <a href="mailto:sahil2004aristo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" /></a>
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <img src="assets/bio_image.png" alt="Retro Setup" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px #e71d36;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <div align="center">
   <img src="assets/tech_header.svg" alt="Tech Stack" width="400" />
 </div>
