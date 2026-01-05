@@ -1,5 +1,10 @@
 
 
+<!-- Header Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E71D36&height=120&section=header&text=Sahil%20Manjhi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
+
 <div align="center">
   <img src="assets/stranger_things.gif" alt="Stranger Things" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px #e71d36;" />
 </div>
@@ -21,6 +26,33 @@
   <a href="https://leetcode.com/u/Y9icWJ7u0J/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="45" alt="leetcode" /></a>
   &nbsp;&nbsp;
   <a href="mailto:sahil2004aristo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="gmail" /></a>
+</div>
+
+<br>
+
+<!-- About Me Section -->
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="center">
+          Hi there! I'm <b>Sahil Manjhi</b>, a passionate developer navigating the <i>Upside Down</i> of code. 
+          I love building robust web applications and exploring the depths of Artificial Intelligence.
+        </p>
+        <ul>
+          <li>🔭 Currently working on <b>Full Stack Web Applications</b></li>
+          <li>🌱 Learning <b>Generative AI, LLMs & System Design</b></li>
+          <li>💼 Open to collaborate on <b>Open Source Projects</b></li>
+          <li>📫 Reach me at <b>sahil2004aristo@gmail.com</b></li>
+          <li>⚡ Fun fact: <i>"Friends don't lie, and neither does my code (mostly)."</i></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -148,6 +180,29 @@
   </a>
 </div>
 
-<div align="right">
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E71D36&height=100&section=footer" />
+</div>
+
+<div align="center">
   <img src="https://count.getloli.com/@:sahilsharda?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
 </div>
+<!-- 
+<div align="center">
+  <i>⭐ From <a href="https://github.com/sahilsharda">sahilsharda</a> with ❤️</i>
+</div> -->
