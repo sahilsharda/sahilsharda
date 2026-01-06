@@ -137,8 +137,8 @@
               <br>Express
             </td>
             <td align="center" width="96">
-              <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-              <br>Native
+              <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+              <br>Docker
             </td>
             <td align="center" width="96">
               <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />
