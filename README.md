@@ -32,7 +32,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=80&text=👨‍💻%20About%20Me&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="assets/about_header.svg" alt="About Me" width="400" />
 </div>
 
 <div align="center">
