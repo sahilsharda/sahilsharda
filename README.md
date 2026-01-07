@@ -40,30 +40,30 @@
 <br>
 
 <div align="center">
-  <h3>✨ Hi there! I'm <b>Sahil Manjhi</b> ✨</h3>
-  <p><i>🌀 A passionate developer navigating the Upside Down of code 🌀</i></p>
+  <h3>Hey, I'm <b>Sahil</b> 👋</h3>
+  <p><i>A curious developer who loves turning ideas into reality through code</i></p>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🔭_Working_on-Full_Stack_Web_Apps-ff6b6b?style=for-the-badge&labelColor=1a1a2e" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/🔭_Currently_Building-Cool_Web_Apps-ff6b6b?style=for-the-badge&labelColor=1a1a2e" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/🌱_Learning-Gen_AI_&_LLMs-e71d36?style=for-the-badge&labelColor=1a1a2e" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/🌱_Exploring-AI_&_Deep_Learning-e71d36?style=for-the-badge&labelColor=1a1a2e" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/💼_Open_to-Open_Source_Collabs-ff6b6b?style=for-the-badge&labelColor=1a1a2e" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/💡_Love-Solving_Problems-ff6b6b?style=for-the-badge&labelColor=1a1a2e" /></a>
   &nbsp;
-  <a href="mailto:sahil2004aristo@gmail.com"><img src="https://img.shields.io/badge/📫_Contact-sahil2004aristo@gmail.com-e71d36?style=for-the-badge&labelColor=1a1a2e" /></a>
+  <a href="mailto:sahil2004aristo@gmail.com"><img src="https://img.shields.io/badge/💬_Let's_Talk-Say_Hi!-e71d36?style=for-the-badge&labelColor=1a1a2e" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Friends+don't+lie%2C+and+neither+does+my+code..." alt="Fun fact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=450&lines=Code+is+poetry+written+in+logic+%F0%9F%92%AB" alt="Fun fact" />
 </div>
 
 ---
