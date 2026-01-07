@@ -32,14 +32,13 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E71D36&center=true&vCenter=true&width=400&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=80&text=👨‍💻%20About%20Me&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there!+I'm+Sahil+Manjhi+%F0%9F%91%8B;A+passionate+developer+navigating+the+Upside+Down+of+code" alt="Intro" />
+  <h3>Hi there! I'm <b>Sahil Manjhi</b> 👋</h3>
+  <p><i>A passionate developer navigating the Upside Down of code</i></p>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/🔭_Working_on-Full_Stack_Web_Apps-E71D36?style=for-the-badge&labelColor=1a1a2e" />
@@ -54,7 +53,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=E71D36&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Friends+don't+lie%2C+and+neither+does+my+code+(mostly)" alt="Fun fact" />
+  <i>⚡ "Friends don't lie, and neither does my code (mostly)."</i>
 </div>
 
 <br>
