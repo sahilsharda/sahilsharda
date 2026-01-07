@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sahil-manjhi-099663278/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sahilsharda" target="blank"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github" /></a>
+  <a href="https://github.com/Sahil5H4RD4" target="blank"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github" /></a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Y9icWJ7u0J/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="45" alt="leetcode" /></a>
   &nbsp;&nbsp;
@@ -69,7 +69,7 @@
 ---
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app?username=sahilsharda&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+   <img src="https://github-profile-trophy.vercel.app?username=Sahil5H4RD4&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <br>
@@ -172,22 +172,22 @@
   <img src="assets/stats_header.svg" alt="Stranger Stats" width="500" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahilsharda&show_icons=true&theme=radical&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sahilsharda&layout=compact&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahil5H4RD4&show_icons=true&theme=radical&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sahil5H4RD4&layout=compact&theme=radical&hide_border=false" height="150" alt="languages graph" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=sahilsharda&theme=radical&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=Sahil5H4RD4&theme=radical&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsharda&theme=react-dark&area=true&hide_border=true" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil5H4RD4&theme=react-dark&area=true&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
 ---
 
 <div align="center">
   <h3>Holopins 🎖️</h3>
-  <a href="https://holopin.io/@sahilsharda">
-    <img src="https://holopin.me/sahilsharda" alt="Holopin Badges" />
+  <a href="https://holopin.io/@Sahil5H4RD4">
+    <img src="https://holopin.me/Sahil5H4RD4" alt="Holopin Badges" />
   </a>
 </div>
 
@@ -211,10 +211,10 @@
 </div>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:sahilsharda?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
+  <img src="https://count.getloli.com/@:Sahil5H4RD4?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
 </div>
 
 <!-- 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/sahilsharda">sahilsharda</a> with ❤️</i>
+  <i>⭐ From <a href="https://github.com/Sahil5H4RD4">Sahil5H4RD4</a> with ❤️</i>
 </div> -->
