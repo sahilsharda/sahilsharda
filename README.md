@@ -30,6 +30,8 @@
 
 <br>
 
+---
+
 <!-- About Me Section -->
 <div align="center">
   <img src="assets/about_header.svg" alt="About Me" width="400" />
@@ -56,7 +58,7 @@
   <i>⚡ "Friends don't lie, and neither does my code (mostly)."</i>
 </div>
 
-<br>
+---
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app?username=sahilsharda&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
