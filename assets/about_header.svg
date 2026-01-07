@@ -1,48 +1,46 @@
 <svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e71d36"/>
-      <stop offset="50%" style="stop-color:#ff6b6b"/>
-      <stop offset="100%" style="stop-color:#e71d36"/>
-    </linearGradient>
-    
     <style>
+      @import url('https://fonts.googleapis.com/css2?family=Benguiat+ITC:wght@700&amp;display=swap');
+      
       .text {
-        font-family: 'Georgia', serif;
-        font-size: 85px;
+        font-family: 'Times New Roman', serif;
+        font-size: 80px;
         font-weight: bold;
         text-anchor: middle;
-        fill: url(#textGradient);
-        filter: drop-shadow(0 0 5px #e71d36) drop-shadow(0 0 15px #ff0000);
-        animation: glow 2s ease-in-out infinite alternate;
+        fill: none;
+        stroke: #e71d36;
+        stroke-width: 2px;
+        filter: drop-shadow(0 0 3px #e71d36) drop-shadow(0 0 8px #ff0000);
+        animation: flicker 3s infinite alternate;
       }
 
-      .text-bg {
-        font-family: 'Georgia', serif;
-        font-size: 85px;
+      .glow {
+        font-family: 'Times New Roman', serif;
+        font-size: 80px;
         font-weight: bold;
         text-anchor: middle;
         fill: #e71d36;
-        opacity: 0.15;
-        filter: blur(8px);
-        animation: pulse 2s ease-in-out infinite alternate;
+        opacity: 0.1;
+        filter: blur(4px);
+        animation: pulse 3s infinite alternate;
       }
 
-      @keyframes glow {
-        0% {
-          filter: drop-shadow(0 0 5px #e71d36) drop-shadow(0 0 15px #ff0000);
+      @keyframes flicker {
+        0%, 18%, 22%, 25%, 53%, 57%, 100% {
+          stroke-opacity: 1;
         }
-        100% {
-          filter: drop-shadow(0 0 10px #e71d36) drop-shadow(0 0 25px #ff0000);
+        20%, 24%, 55% {
+          stroke-opacity: 0.5;
         }
       }
 
       @keyframes pulse {
-        0% { opacity: 0.1; }
-        100% { opacity: 0.3; }
+        0% { opacity: 0.2; }
+        100% { opacity: 0.5; }
       }
     </style>
   </defs>
-  <text x="50%" y="65%" class="text-bg">About Me</text>
+  <text x="50%" y="65%" class="glow">About Me</text>
   <text x="50%" y="65%" class="text">About Me</text>
 </svg>
