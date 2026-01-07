@@ -63,7 +63,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=450&lines=Code+is+poetry+written+in+logic+%F0%9F%92%AB" alt="Fun fact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Friends+don't+lie%2C+and+neither+does+my+code..." alt="Fun fact" />
 </div>
 
 ---
