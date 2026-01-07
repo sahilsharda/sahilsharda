@@ -186,8 +186,8 @@
 
 <div align="center">
   <h3>Holopins 🎖️</h3>
-  <a href="https://holopin.io/@Sahil5H4RD4">
-    <img src="https://holopin.me/Sahil5H4RD4" alt="Holopin Badges" />
+  <a href="https://holopin.io/@sahilsharda">
+    <img src="https://holopin.me/sahilsharda" alt="Holopin Badges" />
   </a>
 </div>
 
