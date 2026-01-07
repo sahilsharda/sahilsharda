@@ -32,27 +32,29 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <h2>👨‍💻 About Me</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E71D36&center=true&vCenter=true&width=400&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <p align="center">
-          Hi there! I'm <b>Sahil Manjhi</b>, a passionate developer navigating the <i>Upside Down</i> of code. 
-          I love building robust web applications and exploring the depths of Artificial Intelligence.
-        </p>
-        <ul>
-          <li>🔭 Currently working on <b>Full Stack Web Applications</b></li>
-          <li>🌱 Learning <b>Generative AI, LLMs & System Design</b></li>
-          <li>💼 Open to collaborate on <b>Open Source Projects</b></li>
-          <li>📫 Reach me at <b>sahil2004aristo@gmail.com</b></li>
-          <li>⚡ Fun fact: <i>"Friends don't lie, and neither does my code (mostly)."</i></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there!+I'm+Sahil+Manjhi+%F0%9F%91%8B;A+passionate+developer+navigating+the+Upside+Down+of+code" alt="Intro" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔭_Working_on-Full_Stack_Web_Apps-E71D36?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🌱_Learning-Gen_AI_&_LLMs-E71D36?style=for-the-badge&labelColor=1a1a2e" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💼_Open_to-Open_Source_Collabs-E71D36?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/📫_Contact-sahil2004aristo@gmail.com-E71D36?style=for-the-badge&labelColor=1a1a2e" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=E71D36&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Friends+don't+lie%2C+and+neither+does+my+code+(mostly)" alt="Fun fact" />
 </div>
 
 <br>
@@ -202,6 +204,7 @@
 <div align="center">
   <img src="https://count.getloli.com/@:sahilsharda?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
 </div>
+
 <!-- 
 <div align="center">
   <i>⭐ From <a href="https://github.com/sahilsharda">sahilsharda</a> with ❤️</i>
