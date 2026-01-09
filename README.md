@@ -208,11 +208,11 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E71D36&height=100&section=footer" />
+  <img src="https://count.getloli.com/@:Sahil5H4RD4?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
 </div>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Sahil5H4RD4?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E71D36&height=100&section=footer" />
 </div>
 
 <!-- 
